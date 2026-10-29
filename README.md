@@ -22,29 +22,48 @@ I work closely with pre-sales teams and solution architects to translate client 
 ## Professional Experience
 
 ### AI/ML Engineer — Multiverse Solutions
+*Pre-Sales Engineering* | *Mar 2026 - Present*
 
-My role focuses on enabling pre-sales and solution architecture teams through the development of AI/ML prototypes and demonstrations.
+As part of the Pre-Sales Engineering team, my primary responsibility is to help onboard new clients by developing AI/ML proof of concepts (POCs), prototypes, and technical demonstrations that validate solution feasibility and showcase business value.
 
-- Developed multiple POCs, prototypes, and demo use cases for prospective clients.
-- Worked closely with pre-sales teams and solution architects to understand requirements and demonstrate technical feasibility.
-- Helped translate business problems into practical AI-driven solutions and client-facing demonstrations.
-- Contributed to solution development across engagements involving clients such as **ASA Baker Tilly**, and **Ritco Logistics**, among others.
+I work closely with solution architects and pre-sales teams to understand client requirements, evaluate technical approaches, and translate proposed solutions into functional demonstrations that help clients assess their feasibility before committing to full-scale implementation.
+
+**Key Responsibilities:**
+
+- **POC & Prototype Development:** Build client-specific AI/ML solutions to validate technical feasibility and demonstrate proposed capabilities.
+- **Technical Feasibility Assessment:** Evaluate approaches, validate concepts, and identify potential implementation challenges.
+- **Solution Architect Collaboration:** Work alongside solution architects to translate business requirements into technically viable solutions.
+- **Client-Facing Demonstrations:** Develop tailored demos that communicate solution capabilities and business value to prospective clients.
+- **Pre-Sales Solution Engineering:** Support client acquisition by transforming solution proposals into working prototypes that build client confidence and help win projects.
+- **Cross-Functional Collaboration:** Coordinate with pre-sales and technical teams to align proposed solutions with client expectations and business objectives.
+
+Contributed to client engagements involving organizations such as **ASA Baker Tilly, and Ritco Logistics**, among others.
 
 ### Data Analyst — 6W Research
+*Data Analytics & Market Research* | *Sept 2025 - Mar 2026*
 
-Previously, I worked on data analytics and machine learning projects, applying statistical and analytical techniques to derive actionable insights from data.
+Previously, I worked on data analytics and machine learning projects, applying statistical techniques, predictive modeling, and data-driven methodologies to derive actionable business insights.
 
-- Worked on diverse data projects involving machine learning, time-series analysis, and data-driven research.
-- Conducted data analysis to support market research and business decision-making.
-- Contributed to semiconductor market analysis for **Bosch Semiconductors**, focusing on the Indian semiconductor market.
-- Applied analytical methodologies to transform raw data into meaningful business insights.
+- Worked on diverse data projects involving machine learning, time-series analysis, forecasting, and data-driven research.
+- Conducted data analysis to support market research, strategic planning, and business decision-making.
+- Contributed to semiconductor data analysis for **Bosch Semiconductors**, focusing on the Indian semiconductor market.
+- Worked on 6W Research's in-house analytical tools, including the **Export Potential Model** and **Forecast IQ**.
+- Supported the development of **data-driven go-to-market strategies** using data science and market intelligence.
+- Worked on multiple **pricing models** to support pricing analysis and strategic business decisions.
+- Applied statistical and analytical methodologies to transform raw data into meaningful business insights.
+
+*In addition to the full-time positions listed above, I have completed multiple internships that have contributed to my professional growth and practical experience. For a comprehensive overview of my work experience, including internships, please visit my [LinkedIn profile](https://www.linkedin.com/in/anay-singh-04548217a/).* 
 
 ## Certifications & Achievements
+
+I have completed **30+ certifications and professional learning programs** across AI, machine learning, data science, and analytics. Below are some of my notable certifications and achievements.
 
 - **Microsoft Certified AI Engineer** — Cleared the AI-103 examination.
 - **HackerRank SQL — 5-Star Coder** — Achieved a 5-star rating in SQL problem-solving.
 - **LeetCode SQL 50** — Completed the SQL 50 study plan, strengthening SQL querying and problem-solving skills.
-- **Codebasics Data Analytics Bootcamp** — Completed the Data Analytics Bootcamp by Codebasics, a learning platform for data analytics and data science.
+- **Codebasics Data Analytics Bootcamp** — Completed the Data Analytics Bootcamp by Codebasics.
+
+For my complete list of certifications and credentials, visit my [LinkedIn profile](https://www.linkedin.com/in/anay-singh-04548217a/).
 
 ## Passion Projects
 
@@ -54,8 +73,8 @@ You'll find personal projects that I've built in the past and continue to develo
 
 My primary focus areas include:
 
-- **Machine Learning:** Predictive modeling, experimentation, and practical ML applications.
-- **AI Agents:** Building intelligent agents that can reason, use tools, and automate tasks.
+- **Machine Learning & Deep Learning:** Predictive modeling, experimentation, and practical ML applications.
+- **AI Agents & RAG Applications:** Building intelligent agents that can reason, use tools, and automate tasks.
 - **Generative AI:** Exploring LLM-powered applications and real-world use cases.
 - **Applied AI:** Experimenting with emerging technologies and turning ideas into working prototypes.
 
@@ -78,9 +97,3 @@ These are primarily passion-driven projects that help me learn, experiment, and 
 
 **Master of Computer Applications (MCA) — Data Science**  
 Symbiosis International University | 2024
-
----
-
-I believe in building practical, business-oriented AI solutions that move beyond experimentation and demonstrate real-world value.
-
-**Always learning. Always building. Always exploring AI.**
