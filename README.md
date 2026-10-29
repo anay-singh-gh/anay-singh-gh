@@ -1,6 +1,17 @@
 # Hi, I'm Anay Singh
 
-### AI/ML Engineer | Microsoft Certified AI Engineer | Applied AI | Machine Learning
+### AI/ML Engineer | Microsoft Certified AI Engineer | Applied AI | Machine Learning | 
+<p align="left">
+  <a href="https://www.linkedin.com/in/anay-singh-04548217a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/anaysingh-6003/credentials/ee569a82034cdcfb?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-View_Credentials-0078D4?style=for-the-badge&logo=microsoft" alt="View Microsoft Credentials"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/singhanay122" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="View HackerRank Profile"/>
+  </a>
+</p>
 
 I'm an **AI/ML Engineer at Multiverse Solutions** and a **Microsoft Certified AI Engineer**, passionate about building practical AI solutions, machine learning applications, and intelligent AI agents.
 
@@ -17,7 +28,7 @@ My role focuses on enabling pre-sales and solution architecture teams through th
 - Developed multiple POCs, prototypes, and demo use cases for prospective clients.
 - Worked closely with pre-sales teams and solution architects to understand requirements and demonstrate technical feasibility.
 - Helped translate business problems into practical AI-driven solutions and client-facing demonstrations.
-- Contributed to solution development across engagements involving clients such as AEC, Baker Tilly, and Redco Logistics, among others.
+- Contributed to solution development across engagements involving clients such as **ASA Baker Tilly**, and **Ritco Logistics**, among others.
 
 ### Data Analyst — 6W Research
 
@@ -25,7 +36,7 @@ Previously, I worked on data analytics and machine learning projects, applying s
 
 - Worked on diverse data projects involving machine learning, time-series analysis, and data-driven research.
 - Conducted data analysis to support market research and business decision-making.
-- Contributed to semiconductor market analysis for Bosch Semiconductors, focusing on the Indian semiconductor market.
+- Contributed to semiconductor market analysis for **Bosch Semiconductors**, focusing on the Indian semiconductor market.
 - Applied analytical methodologies to transform raw data into meaningful business insights.
 
 ## Certifications & Achievements
